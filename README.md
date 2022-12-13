@@ -37,9 +37,7 @@
 Project is:  _completed_ 
 
 ## Room for Improvement
-- What we think this project can be improve is to identify what are those negative values of Id columns from the 4 files, so we can decide to either filter them out or include them while comapring. 
-- This project can also be done faster using SQL code on data warehouses. 
-
+- How stop being blocked from Zillow
 ## Contact
 Created by <datasciencelife2021@gmail.com> - feel free to contact me!
 
